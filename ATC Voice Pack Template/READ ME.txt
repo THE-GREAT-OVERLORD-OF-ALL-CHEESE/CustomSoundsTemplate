@@ -1,0 +1,13 @@
+To make an ATC voice pack, you must copy this folder into your Mods folder.
+
+Rename the folder!
+
+Change the text inside "atcvoiceinfo.txt" to the name of your voice pack.
+
+The text inside "atcvoiceinfo.txt" must be unique!
+
+Add a multiple .wav file inside each of the sub folders,
+the game will randomly pick sounds from these files,
+except in cases where the sounds are for letters, number or directions
+Where the name of the .wav file does matter, I have included instructions in more READ ME.txt files.
+If you leave a folder empty, it should play the stock sound effect instead.

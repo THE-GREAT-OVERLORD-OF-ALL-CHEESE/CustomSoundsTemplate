@@ -1,0 +1,3 @@
+this folder must contain "0left.wav", "1center.wav" and "2right.wav"
+the center runway designation is unused in game,
+but add a sound effect anyways as baha or a modder could add a runway with a center designation later

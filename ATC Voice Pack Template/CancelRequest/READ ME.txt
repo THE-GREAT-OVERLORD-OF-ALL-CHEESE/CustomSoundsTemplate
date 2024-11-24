@@ -1,0 +1,4 @@
+Sound effects in this folder will play when the player cancles any ATC request.
+
+This is typically the ATC saying something generic and affirmative in response.
+Include multiple sounds for more variation.

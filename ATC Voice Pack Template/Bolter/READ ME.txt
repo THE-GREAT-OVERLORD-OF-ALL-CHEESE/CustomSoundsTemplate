@@ -1,0 +1,5 @@
+Sound effects in this folder will play when the aircraft arrestor hook
+does not catch on the wire.
+
+This is typically the LSO saying something like "Bolter".
+Include multiple sounds for more variation.

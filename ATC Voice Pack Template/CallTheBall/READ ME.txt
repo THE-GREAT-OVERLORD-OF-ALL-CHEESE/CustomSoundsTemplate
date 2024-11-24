@@ -1,0 +1,7 @@
+Sound effects will play when the player is aproaching an aircraft carrier.
+
+This is typically the LSO saying "Call the ball", 
+the player can then respond with something like "[Aircraft Designation] Roger ball",
+check the vtol wiki for specifics.
+
+Include multiple sounds for more variation.

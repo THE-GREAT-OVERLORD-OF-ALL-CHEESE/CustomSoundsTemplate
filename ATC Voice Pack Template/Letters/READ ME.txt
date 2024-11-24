@@ -1,0 +1,2 @@
+This folder must contain 26 .wav files numbered "00.wav" to "25.wav"
+that contain the 26 letters in the NATO phonetic alphabet
